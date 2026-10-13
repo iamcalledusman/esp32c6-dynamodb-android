@@ -80,4 +80,4 @@ app/src/main/java/com/example/myapplication/
 
 ## License
 
-Add a license of your choice (for example MIT) before publishing.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
